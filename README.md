@@ -8,3 +8,6 @@
 - Java集合
 - 多线程
 - JVM
+- MySQL
+- Redis
+- RocketMQ
